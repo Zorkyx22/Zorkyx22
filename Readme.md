@@ -14,7 +14,7 @@ While you're here, why don't you take a look at some of my work?
 <td> <a href="https://github.com/Zorkyx22/HiddenGems">HiddenGems</a></td>
 </tr>
 <tr>
-<td align="right"> This a (excuse my french) chatbot</td>
+<td align="right"> This is a (excuse my french) chatbot</td>
 <td> <a href="https://github.com/Zorkyx22/BuggyBooLeGrandSage">BuggyBoo</a></td>
 </tr>
 </table>
