@@ -6,7 +6,7 @@ This file will grow as I have ideas for it. Thanks for visiting my profile! Whil
 
 <table>
 <tr>
-<td align="right"> Here is an exploratory chatroom that wants to be dumb.</td>
+<td align="right"> Here is an exploratory chatroom that wants to be dumb simple. It lives in the terminal.</td>
 <td> <a href="https://github.com/Zorkyx22/Hermes">Hermes</a></td>
 </tr>
 <tr>
