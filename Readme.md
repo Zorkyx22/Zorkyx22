@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour/Hi</>
+<h1 align="center">Bonjour/Hi</h1>
 <p>
 I'm a proud Québecois, so I mainly speak french,  however most of my code is documented is english: I want to contribute to the community!
 
